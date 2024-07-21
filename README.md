@@ -1,8 +1,8 @@
 # API-TICKET
-##Api de Solicitação de Atendimento
+## Api de Solicitação de Atendimento
 objetivo criar um aolicativo para abertura de Ticket de atendimento.
 
-###Back-End
+### Back-End
 
 - Dot.NET
 - MongoDB
@@ -10,6 +10,6 @@ objetivo criar um aolicativo para abertura de Ticket de atendimento.
 
 
 
-###Front-End
+### Front-End
 
 - React
