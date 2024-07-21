@@ -3,9 +3,10 @@
 objetivo criar um aolicativo para abertura de Ticket de atendimento.
 
 ###Back-End
--.NET
--MongoDB
--Docker
+
+- Dot.NET
+- MongoDB
+- Docker
 
 
 
