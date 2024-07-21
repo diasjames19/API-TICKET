@@ -6,5 +6,8 @@ objetivo criar um aolicativo para abertura de Ticket de atendimento.
 -.NET
 -MongoDB
 -Docker
+
+
+
 ###Front-End
 -React
